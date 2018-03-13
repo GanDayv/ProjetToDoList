@@ -1,4 +1,4 @@
-package fr.loirotte.recytuto;
+package fr.DavidHolzhammerClementTeyssandier.recytuto;
 
 import org.junit.Test;
 

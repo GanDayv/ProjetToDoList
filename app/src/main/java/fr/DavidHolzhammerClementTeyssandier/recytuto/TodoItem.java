@@ -1,4 +1,4 @@
-package fr.loirotte.recytuto;
+package fr.DavidHolzhammerClementTeyssandier.recytuto;
 
 /**
  * Created by phil on 06/02/17.

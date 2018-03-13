@@ -1,4 +1,4 @@
-package fr.loirotte.recytuto;
+package fr.DavidHolzhammerClementTeyssandier.recytuto;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
